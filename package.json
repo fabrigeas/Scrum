@@ -1,0 +1,48 @@
+{
+  "name": "scrum",
+  "version": "2.0.0",
+  "description": "This is the Angular implementation of the application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabrigeas/Scrum.git"
+  },
+  "author": "Fabrice Feugang kemegni",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/fabrigeas/Scrum/issues"
+  },
+  "homepage": "https://github.com/fabrigeas/Scrum#readme",
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "6.0.0",
+    "@angular/cdk": "^6.0.0",
+    "@angular/common": "6.0.0",
+    "@angular/compiler": "6.0.0",
+    "@angular/core": "6.0.0",
+    "@angular/forms": "6.0.0",
+    "@angular/http": "6.0.0",
+    "@angular/material": "^6.0.0",
+    "@angular/platform-browser": "6.0.0",
+    "@angular/platform-browser-dynamic": "6.0.0",
+    "@angular/router": "6.0.0",
+    "@ngx-pwa/local-storage": "^6.0.0-rc.0",
+    "angular-font-awesome": "^3.1.2",
+    "bootstrap": "^4.1.1",
+    "core-js": "^2.4.1",
+    "font-awesome": "^4.7.0",
+    "grunt-cli": "^1.2.0",
+    "hammerjs": "^2.0.8",
+    "jquery": "^3.3.1",
+    "moment": "^2.22.1",
+    "mongodb": "^3.0.7",
+    "ngx-color-picker": "^5.3.8",
+    "ngx-image-cropper": "^0.2.6",
+    "node-json-db": "^0.7.5",
+    "rxjs": "^6.1.0",
+    "zone.js": "^0.8.26"
+  }
+}
